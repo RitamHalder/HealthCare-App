@@ -26,7 +26,7 @@ st.set_page_config(
 logo_size = (100, 100)
 
 # Displaying the logo in the top-left corner
-st.image("_78d73381-13d3-4f0b-98d4-7967c29b7d27.jpeg", width=logo_size[0], caption="Ange", use_column_width=False)
+st.image("models/_78d73381-13d3-4f0b-98d4-7967c29b7d27.jpeg", width=logo_size[0], caption="Ange", use_column_width=False)
 
 # Customizing Streamlit Page Style
 def set_page_style():
