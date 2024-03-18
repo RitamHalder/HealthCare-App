@@ -50,7 +50,7 @@ def load_test_image_data():
             test_image_data.append(img)
             test_labels.append(label)
 
-    test_image_data = np.array(test_image_data)
+    # test_image_data = np.array(test_image_data)
     test_labels = np.array(test_labels)
 
     return test_image_data, test_labels
@@ -101,7 +101,7 @@ X_test, y_test = load_test_image_data()
 y_test_encoded = encode_labels(y_test)
 
 # Evaluate the model
-loss, accuracy = cancer_model.evaluate(X_test, y_test_encoded)
+loss, accuracy = cancer_model.evaluate(np.array(X_test), y_test_encoded)
 print("Test Accuracy:", accuracy)
 
 
