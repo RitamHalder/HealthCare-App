@@ -1,4 +1,4 @@
-Our Healthcare System is a groundbreaking platform designed to revolutionize patient care and diagnosis through advanced machine learning techniques. With a comprehensive approach encompassing multiple health 
+Our Healthcare System is a groundbreaking platform designed to revolutionize patient care and diagnosis through advanced machine learning techniques. With a comprehensive approach encompassing multiple health
 conditions, this system integrates cutting-edge technologies to provide accurate and timely assessments.
 
 At the heart of our system lies a sophisticated hybrid model, meticulously crafted to address various medical concerns. This model amalgamates three powerful machine learning algorithms, each tailored to 
